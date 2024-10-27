@@ -1,1 +1,14 @@
-
+{
+    "name": "hiredreviews/inventory-management-system",
+    "autoload": {
+        "psr-4": {
+            "Hiredreviews\\InventoryManagementSystem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "skip"
+        }
+    ],
+    "require": {}
+}
